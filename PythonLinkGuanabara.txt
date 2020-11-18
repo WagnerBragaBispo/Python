@@ -1,0 +1,10 @@
+
+####Python 3.6.4 documentation
+https://docs.python.org/3.6/index.html
+
+
+####The Python Tutorial
+https://docs.python.org/3.6/tutorial/index.html
+
+####Para baixar o Python no Linux Ubunto
+digite sudo apt-get install python3.6
